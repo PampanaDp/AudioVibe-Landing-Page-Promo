@@ -12,16 +12,14 @@ This webpage serves as a product landing page for promoting wireless headphones.
 ## Data source
  Product image and specifications were referenced from publicly available resources and are used here strictly for educational or demonstration purposes.
 
-- 🎧 Image Source: Audio-Technica or Unsplash (depending on what you used)
-  
-![headphones](https://github.com/user-attachments/assets/1dd04b13-8538-4cc3-8246-d65cfe00676c)
+- 🎧 Image Source: Audio-Technica or Unsplash (depending on what you used) 
+![image](https://github.com/user-attachments/assets/812aa426-b18f-47e8-851c-58bc009bd61f)
 ![image](https://github.com/user-attachments/assets/dc8ad154-a0b6-43ec-8ab0-1c86695ac9fc)
 ![actions](https://github.com/user-attachments/assets/f0016a64-c3f6-4eea-a48e-a2d637f506f8)
 ![image](https://github.com/user-attachments/assets/c55c242d-c182-4b80-adf7-dc3caaad6c05)
 
 - 🛒 Inspiration Source: Amazon / Flipkart / Brand Official Website
-  <img width="916" alt="Screenshot 2023-03-03 210922" src="https://github.com/user-attachments/assets/d000704b-b1c5-4579-8618-2456d53e87c9" />
-
+  ![image](https://github.com/user-attachments/assets/a2c34d27-2abe-4696-b6b5-67148d87e140)
 
 - ⚠️ This page is not intended for commercial use.
 
